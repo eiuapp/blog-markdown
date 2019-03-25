@@ -5,16 +5,16 @@
 
 -----
 * [关于](post/about.md)
-* [个人简历](post/about/ABOUT_ME.md)
-* [关于博客](post/about/ABOUT_BLOG.md)
-* [关于配置](post/about/env.md)
-* [关于作品](post/about/works.md)
-* [理想与现实](post/chedan/chedan.md)
-    * [自己的小目标](post/chedan/goal.md)
-    * [Life](post/life.md)
-        * [Life Film](post/life-film.md)
-        * [Life Healthy](post/life-healthy.md)
-        * [health](post/note-about-health.md)
+    * [个人简历](post/about/ABOUT_ME.md)
+    * [关于博客](post/about/ABOUT_BLOG.md)
+    * [关于配置](post/about/env.md)
+    * [关于作品](post/about/works.md)
+    * [理想与现实](post/chedan/chedan.md)
+        * [自己的小目标](post/chedan/goal.md)
+        * [Life](post/life.md)
+            * [Life Film](post/life-film.md)
+            * [Life Healthy](post/life-healthy.md)
+            * [health](post/note-about-health.md)
 
 -----
 * [apple](post/apple.md)
