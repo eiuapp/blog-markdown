@@ -4,12 +4,11 @@
 * [Introduction](README.md)
 
 -----
+* [关于](post/about.md)
 * [个人简历](post/about/ABOUT_ME.md)
 * [关于博客](post/about/ABOUT_BLOG.md)
 * [关于配置](post/about/env.md)
 * [关于作品](post/about/works.md)
-
------
 * [理想与现实](post/chedan/chedan.md)
     * [自己的小目标](post/chedan/goal.md)
     * [Life](post/life.md)
@@ -32,11 +31,6 @@
     * [blockchain note](post/blockchain-learn-mastering-bitcoin.md)
     * [Eth Erc20 Create Xcoin](post/eth-erc20-create-xcoin.md)
     * [Eth Token Release](post/eth-token-release.md)
-* [blog](post/blog/blog.md)
-    * [Blog Change Cname](post/blog/blog-change-cname.md)
-    * [大神的博客](post/blog/blog-dashen.md)
-    * [blog头中的date](post/blog/blog-date.md)
-    * [使用来必力City版评论系统](post/blog/comment-with-livere-city.md)
 * [org](post/org.md)
     * [使用org-mode和ox-hugo写文档](post/blogging-with-org-mode-and-ox-hugo.md)
     * [shane sveller blog 笔记](post/shane-sveller-blog-about-ox-hugo.md)

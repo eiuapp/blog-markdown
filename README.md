@@ -1,8 +1,8 @@
-# Blog Handbook
+# Blog Gitbook
 
 此书是[我的博客](http://eiuapp.github.io/)的阅读与理解，帮助大家更快了解我对技能的管理和使用。
 
-<!-- - GitHub地址：https://github.com/eiuapp/ceph-handbook -->
+- GitHub地址：https://github.com/eiuapp/blog-markdown/
 
 - 在线访问地址：https://eiuapp.github.io/
 
