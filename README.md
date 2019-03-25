@@ -4,7 +4,7 @@
 
 <!-- - GitHub地址：https://github.com/eiuapp/ceph-handbook -->
 
-- 在线访问地址：https://qqmm.app/
+- 在线访问地址：https://eiuapp.github.io/
 
 
 
